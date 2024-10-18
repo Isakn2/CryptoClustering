@@ -52,7 +52,3 @@ The K-Means algorithm is run on both the original scaled data and the PCA-transf
 ## Conclusion
 
 This project provides a framework for clustering cryptocurrencies based on price movement data, demonstrating the impact of dimensionality reduction and the K-Means algorithm on market data.
-
---- 
-
-This README outlines the purpose, methodology, and steps involved in your project.
